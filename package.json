@@ -33,7 +33,7 @@
     "editorconfig": "^0.13.2",
     "js-beautify": "^1.7.4",
     "lasso-package-root": "^1.0.0",
-    "marko": "^4.0.0",
+    "marko": "^4.6.0",
     "minimatch": "^3.0.0",
     "redent": "^2.0.0",
     "resolve-from": "^3.0.0"
